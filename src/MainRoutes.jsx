@@ -28,7 +28,7 @@ import SectorsOuter from './Pages/Sectors/SectorsOuter';
 
 // Stock Pages 👇
 import SuperChartsInnerPage from './Pages/SuperChartsInnerPage';
-import Delivery from './Pages/searchIndustries/Delivery.jsx';
+import Delivery from './Pages/searchIndustries/delivery.jsx';
 import Diamondreport from './Pages/searchIndustries/Diamondreport';
 import Financials from './Pages/searchIndustries/Financials.jsx';
 import Fundamentals from './Pages/searchIndustries/Fundamentals';
