@@ -1,0 +1,43 @@
+{
+    "breadth": {
+        "date": {
+            "question": "Want to know date-wise trend of the sector?",
+            "answer": "Subscribe to know how the money is moving date-wise within the sector",
+            "image": "breadthDateWise.png"
+        },
+        "industry": {
+            "question": "Which industry within the sector is the right one to invest now?",
+            "answer": "Subscribe to Pro Plan to find the top performing industries within the sector",
+            "image": "breadthIndustryWise.png"
+        }
+    },
+    "deliveries": {
+        "date": {
+            "question": "Want to know date-wise delivery trend of the sector?",
+            "answer": "Subscribe to know how the money is moving date-wise within the sector",
+            "image": "deliveriesDateWise.png"
+        },
+        "industry": {
+            "question": "Looking for Industry within the Sector with higher delivery?",
+            "answer": "Subscribe to Pro Plan to find the top performing Industries within the sector",
+            "image": "deliveriesIndustryWise.png"
+        },
+        "stock": {
+            "question": "Looking for stocks within the Sector with higher deliveries?",
+            "answer": "Subscribe to Pro Plan to find the stocks with high deliveries",
+            "image": "deliveriesStockWise.png"
+        }
+    },
+    "vwap": {
+        "date": {
+            "question": "Want to know date-wise VWAP trend of the sector?",
+            "answer": "Subscribe to know how the money is moving date-wise within the sector",
+            "image": "vwapDateWise.png"
+        },
+        "industry": {
+            "question": "Which industry within the sector is the right one to invest now?",
+            "answer": "Subscribe to Pro Plan to find the top performing industries within the Sector",
+            "image": "vwapIndustryWise.png"
+        }
+    }
+}

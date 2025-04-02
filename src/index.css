@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.body {
+    background-color: #e2f6f6;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 4px; /* Very thin scrollbar */
+  height: 4px; /* Horizontal scrollbar thickness */
+}
+
+/* Scrollbar Track */
+::-webkit-scrollbar-track {
+  background: transparent; /* Makes track invisible */
+}
+
+/* Scrollbar Thumb */
+::-webkit-scrollbar-thumb {
+  background: #bcbcbc; /* Change color */
+  border-radius: 4px; /* Rounded edges */
+}
+
+/* Scrollbar Thumb on Hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #888; /* Darker color on hover */
+}
+
+/* Remove Scrollbar Buttons (Arrows) */
+::-webkit-scrollbar-button {
+  display: none;
+}
